@@ -129,8 +129,8 @@ const scenes = {
   },
   'games4fun-pitch': {
     image: 'assets/concepts/games4fun-games.png',
-    title: 'ORBOLTA & 21 Rifts',
-    caption: 'Games4Fun · Game showcase artwork',
+    title: 'Games at Games4Fun',
+    caption: 'ORBOLTA & 21 Rifts · Two games from our wider portfolio',
     alt: 'Game showcase artwork featuring the ORBOLTA and 21 Rifts logos, without people.',
   },
 };
